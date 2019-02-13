@@ -57,7 +57,7 @@
         android:name=".searchresults.SearchResultsActivity"
         android:label="@string/results_title"/>
     <activity
-        android:name=".FavoritesActivity"
+        android:name=".favorite.FavoritesActivity"
         android:label="@string/favorites_title"/>
     <activity
         android:name=".recipe.RecipeActivity"
